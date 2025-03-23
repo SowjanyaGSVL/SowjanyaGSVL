@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a **Data Scientist** passionate about **Machine Learning, Deep Learning, NLP, and Generative AI**. I focus on building AI-driven solutions and developing insightful data projects.
 
 ## 🎓 Education
-- **Master’s in Data Science** – University of Malaya
+- **Master of Data Science** – University of Malaya
 - **B.Tech in Computer Science & Engineering** – NS Raju Institute of Technology
 
 ---
